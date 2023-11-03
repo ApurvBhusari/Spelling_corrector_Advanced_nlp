@@ -1,3 +1,6 @@
+#Deployment Link
+http://ec2-35-154-111-197.ap-south-1.compute.amazonaws.com:8080/
+
 # Spelling_corrector_Advanced_nlp
 ### Problem Statement
 Spelling correction in natural language processing and information retrieval literature mostly relies on pre-defined lexicons to detect spelling errors. Spelling correction is the task of detecting and correcting spelling mistakes.
